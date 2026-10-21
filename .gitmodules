@@ -1,0 +1,15 @@
+[submodule "inverter-based-ring-oscillator"]
+	path = inverter-based-ring-oscillator
+	url = https://github.com/TinyTapeout/ttsky-verilog-template.git
+[submodule "dff-ram"]
+	path = dff-ram
+	url = https://github.com/TinyTapeout/ttsky-verilog-template.git
+[submodule "ALU"]
+	path = ALU
+	url = https://github.com/TinyTapeout/ttsky-verilog-template.git
+[submodule "MAC"]
+	path = MAC
+	url = https://github.com/TinyTapeout/ttsky-verilog-template.git
+[submodule "register-file"]
+	path = register-file
+	url = https://github.com/TinyTapeout/ttsky-verilog-template.git
